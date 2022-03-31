@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Architecturer, 10 years experience with C#
+Software Architect, 10 years of experience with C#
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelmaciel/)](https://www.linkedin.com/in/samuelmaciel/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ssmaciel)](https://twitter.com/ssmaciel)
