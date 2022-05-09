@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ssmaciel/github-stats">
    
-![](https://github.com/ssmaciel/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ssmaciel/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/ssmaciel/github-stats/blob/master/generated/languages.svg)
 
 </a>
