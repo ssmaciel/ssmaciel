@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+.NET | Azure | AWS | Docker | Kubernetes
+
 Software Architect, 10 years of experience with C#
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelmaciel/)](https://www.linkedin.com/in/samuelmaciel/)
