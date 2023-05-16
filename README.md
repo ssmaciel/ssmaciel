@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-.NET | Azure | AWS | Docker | Kubernetes
+.NET | Go | Azure | AWS | Docker | Kubernetes
 
 Software Architect, 10 years of experience with C#
 
