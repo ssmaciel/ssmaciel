@@ -4,6 +4,7 @@
 
 Software Architect, 10 years of experience with C#
 
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@SamukaMaciel-Dev/)](https://www.youtube.com/@SamukaMaciel-Dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelmaciel/)](https://www.linkedin.com/in/samuelmaciel/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ssmaciel)](https://twitter.com/ssmaciel)
 [![Gmail Badge](https://img.shields.io/badge/-ssmaciel.rp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssmaciel.rp@gmail.com)](mailto:ssmaciel.rp@gmail.com) 
