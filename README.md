@@ -2,7 +2,7 @@
 
 .NET | Go | Azure | AWS | Docker | Kubernetes
 
-Software Architect, 10 years of experience with C#
+Software Architect, 14 years of experience with C#
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@SamukaMaciel-Dev/)](https://www.youtube.com/@SamukaMaciel-Dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelmaciel/)](https://www.linkedin.com/in/samuelmaciel/)
